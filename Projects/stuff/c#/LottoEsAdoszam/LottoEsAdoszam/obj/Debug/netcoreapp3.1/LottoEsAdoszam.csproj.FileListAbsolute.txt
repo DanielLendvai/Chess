@@ -1,0 +1,16 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\bin\Debug\netcoreapp3.1\LottoEsAdoszam.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\bin\Debug\netcoreapp3.1\LottoEsAdoszam.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\bin\Debug\netcoreapp3.1\LottoEsAdoszam.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\bin\Debug\netcoreapp3.1\LottoEsAdoszam.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\bin\Debug\netcoreapp3.1\LottoEsAdoszam.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\bin\Debug\netcoreapp3.1\LottoEsAdoszam.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.Form1.resources
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.csproj.GenerateResource.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\LottoEsAdoszam\LottoEsAdoszam\obj\Debug\netcoreapp3.1\LottoEsAdoszam.genruntimeconfig.cache

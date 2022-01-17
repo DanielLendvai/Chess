@@ -1,0 +1,17 @@
+<table>
+    <thead><tr><th>Email</th><th>Név</th><th>Beosztás</th></tr></thead>
+    <tbody>
+        <tr *ngFor="let d of dolgozok">
+            <td style="padding-left: {{d.szint * 50}}px;">
+                <a *ngIf="d.kep" href="{{d.kep}}" target="_blank"><img src="{{d.kep}}" width="30px" height="30px"/></a>
+                <i>{{d.email}}</i>
+            </td>
+            <td>{{d.nev}}</td>
+            <td>{{d.beosztas}}</td>
+            <td *ngIf="d.torolheto">
+                <a href="edit?id={{d.azonosito}}"><img src="images/edit.png"  title="Szerkesztés"/></a>
+                <a href="delete?id={{d.azonosito}}"><img src="images/delete.png" title="Törlés"/></a>
+            </td>
+        </tr>
+    </tbody>
+</table>

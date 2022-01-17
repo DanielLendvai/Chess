@@ -1,0 +1,6 @@
+1. Hozzon létre egy alkalmazást/webhelyet, mely bemutatja, egy honlapra történő regisztráció működését (név, e-mail, telefon, jelszó 2x).
+2. Az oldal legyen mobilbarát, tehát legalább 2 eltérő képernyőméreten mutasson tökéletes képet (asztali méret és egy 480 pixel szélesség alatti méret. A feladatot külső CSS fájl-ban és annak meghívásával oldja meg).
+3. A név és e-mail mező legyen kötelező és ellenőrizze, hogy a megadott jelszó mindkét esetben azonos.
+4. Az adatokat rögzítse adatbázisban (MySQL). A jelszót SHA1 kódolással tárolja. A tárolás állítson státuszt (A feliratkozó alapértelmezett státusza 0 legyen)! Az adatbázis elkészítéséhez használható a phpMyadmin alkalmazás.
+5. Hozzon létre egy adminisztrátori oldalt, ahol az adminisztrátor neves, jelszavas belépését követően a rendszer kilistázza egy táblázatban a regisztrált látogatók adatait! A listában legyen lehetőség a regisztrált felhasználók státuszának átállítására!
+Ennek a felületnek nem szükséges mobilbarátnak lennie.
